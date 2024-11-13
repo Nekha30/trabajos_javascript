@@ -63,7 +63,7 @@ console.log(resultadoSuma, resultadoResta, resultadoMultiplicacion, resultadoDiv
 
 //ejercicio 6
 let numero1 = 43
-let numero2 = 5
+let numero2 = 15
 
 if (numero1 && numero2 > 10){
     console.log("Ambos numeros son mayores que 10");
